@@ -7,7 +7,7 @@
   <a href="#key-features">Key features</a> •
   <a href="#how-to-use">How to use</a> •
   <a href="#future-features">Future features</a> •
-  <a href="#license">License</a> •
+  <a href="#license">License</a>
 </p>
 
 ## Introduction
