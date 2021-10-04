@@ -13,7 +13,7 @@
 ## Introduction
 _Are you feeling __tired__ of checking manga websites to figure out whether your favorite manga has a new chapter or not? Don't worry._
 
-This application is made to help you easily manage those information. It will automatic download new chapters for you to read it offline.
+This application is made to help you easily manage those information. It will automatically download new chapters for you to read it offline.
 
 ## Key features
 - None at the moment
