@@ -1,5 +1,13 @@
-<h1 align="center">MangaTracker</h1>
-  
+<h1 align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Kokoroou/MangaDownloader/main/Logo%20Manga%20Tracker.png" width="200"/>
+  <br>
+  MangaTracker
+  <br>
+</h1>
+
+
+
 <h3 align="center">Table of content</h3>
 
 <p align="center">
